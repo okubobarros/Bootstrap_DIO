@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+body {
+    font: 20px Lato, sans-serif;
+}
+
+.navbar {
+    background-color: #001D6E;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.quem-somos {
+    background-color:#E0D8B0;
+    color: #ffffff;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #CE9461;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
